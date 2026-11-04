@@ -1,0 +1,1 @@
+"""retail-data-pipelines: ETL MySQL-реплика → локальный PostgreSQL (мини-DWH)."""

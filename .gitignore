@@ -1,0 +1,20 @@
+﻿# Секреты и локальные конфиги
+.env
+*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# БД и логи
+*.db
+*.sqlite3
+*.log
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
